@@ -1,4 +1,5 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+The Gatsby site can be found on the Gatsby cloud generated URL: https://build-40373bb7-b0fa-4990-a37b-97b63dc0a11a.gtsb.io/
+
 <p align="center">
   <a href="https://www.gatsbyjs.org">
     <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
