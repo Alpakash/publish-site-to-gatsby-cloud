@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <Layout>
       <div style={{ maxWidth: 750, margin: `3rem auto` }}>
-        <h1>Hi! I'm building a fake Gatsby site as part of a tutorial!</h1>
+        <h1>Hi! Welcome and enjoy.</h1>
         <p>
-          What do I like to do? Lots of course but definitely enjoy building
+          What do I like to do? Lots of courses but I definitely enjoy building
           websites.
         </p>
       </div>

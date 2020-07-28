@@ -11,7 +11,7 @@ const SecondPage = () => (
   <Layout>
     <div style={{ maxWidth: 750, margin: `3rem auto` }}>
       <SEO title="Page two" />
-      <h1>Contact</h1>
+      <h1>About</h1>
       <br />
       Image:
       <ImgBluemerle />
